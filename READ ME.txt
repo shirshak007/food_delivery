@@ -1,0 +1,20 @@
+Respected Sir,
+	
+Please follow these steps to use this software.
+
+1. Please Start XAMPP or WAMP services & create a database named "food_delivery" without any password using phpmyadmin.
+
+2. Please download the "hungrydigger.com.rar" file and extract it into "xampp/htdocs" for XAMPP or "wamp/www" for WAMP.
+
+3. Inside the extracted folder there is another subfolder called "Tables". Import "food_delivery.sql" into created database using phpmyadmin.
+
+4. Open any HTML5 supported(for better result) and write in address bar "localhost/hungrydigger.com" and use it.
+
+** If there is any issue showing reports in bar graphs then please try an alternative browser.
+** While accessing admin part of this software please use Admin ID:1 and Password:123
+
+Thanking you,
+
+Faithfully yours,
+
+Group Three
